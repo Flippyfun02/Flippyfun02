@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Amie and I am a student developer currently pursuing a major in Computer Science. 
+My name is Amie and I am a student developer pursuing a major in Computer Science and a minor in Data Science. 
 
 <!--
 **Flippyfun02/Flippyfun02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
