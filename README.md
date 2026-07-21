@@ -8,7 +8,7 @@ I'm looking ahead to Summer 2027 SWE internships! If you're working on something
 **Languages**: Python, Java, C, TypeScript, HTML, CSS, C#  
 **Data Science**: Pandas, NumPy, scikit-learn, TensorFlow  
 **Web Dev**: React, Express, Node.js  
-**Tools**: Jupyter Notebooks, Google Colab, Git, GitHub  
+**Tools**:  Git, GitHub, CLI tools, Oracle, Jira, Microsoft Office, Jupyter Notebooks  
 **Databases**: SQL, PostgreSQL, Supabase, Prisma ORM, MongoDB
 
 ## Let's Connect
